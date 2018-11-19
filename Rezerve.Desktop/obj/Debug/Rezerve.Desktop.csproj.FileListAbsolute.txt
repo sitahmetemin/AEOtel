@@ -1,0 +1,11 @@
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\bin\Debug\Rezerve.Desktop.exe.config
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\bin\Debug\Rezerve.Desktop.exe
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\bin\Debug\Rezerve.Desktop.pdb
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.csprojAssemblyReference.cache
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.FrmLogin.resources
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.Properties.Resources.resources
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.csproj.GenerateResource.cache
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.exe
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.pdb
+C:\Users\ahmetemin.sit\source\repos\Rezerve\Rezerve.Desktop\obj\Debug\Rezerve.Desktop.Home.resources
