@@ -32,13 +32,13 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnCikis = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.txtPass = new System.Windows.Forms.TextBox();
             this.txtName = new System.Windows.Forms.TextBox();
             this.btnGiris = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnCikis = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -86,6 +86,20 @@
             this.panel2.Size = new System.Drawing.Size(483, 31);
             this.panel2.TabIndex = 1;
             // 
+            // btnCikis
+            // 
+            this.btnCikis.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnCikis.BackColor = System.Drawing.Color.Red;
+            this.btnCikis.ForeColor = System.Drawing.Color.White;
+            this.btnCikis.Location = new System.Drawing.Point(446, 2);
+            this.btnCikis.Name = "btnCikis";
+            this.btnCikis.Size = new System.Drawing.Size(34, 23);
+            this.btnCikis.TabIndex = 0;
+            this.btnCikis.Text = "X";
+            this.btnCikis.UseVisualStyleBackColor = false;
+            this.btnCikis.Click += new System.EventHandler(this.btnCikis_Click);
+            // 
             // panel3
             // 
             this.panel3.Controls.Add(this.txtPass);
@@ -104,7 +118,7 @@
             this.txtPass.Location = new System.Drawing.Point(59, 185);
             this.txtPass.Name = "txtPass";
             this.txtPass.Size = new System.Drawing.Size(367, 20);
-            this.txtPass.TabIndex = 2;
+            this.txtPass.TabIndex = 1;
             this.txtPass.Text = "123";
             // 
             // txtName
@@ -112,7 +126,7 @@
             this.txtName.Location = new System.Drawing.Point(59, 130);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(367, 20);
-            this.txtName.TabIndex = 2;
+            this.txtName.TabIndex = 0;
             this.txtName.Text = "otel";
             // 
             // btnGiris
@@ -120,7 +134,7 @@
             this.btnGiris.Location = new System.Drawing.Point(295, 227);
             this.btnGiris.Name = "btnGiris";
             this.btnGiris.Size = new System.Drawing.Size(131, 31);
-            this.btnGiris.TabIndex = 1;
+            this.btnGiris.TabIndex = 2;
             this.btnGiris.Text = "Giriş";
             this.btnGiris.UseVisualStyleBackColor = true;
             this.btnGiris.Click += new System.EventHandler(this.btnGiris_Click);
@@ -144,20 +158,6 @@
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "K.Adı:";
-            // 
-            // btnCikis
-            // 
-            this.btnCikis.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCikis.BackColor = System.Drawing.Color.Red;
-            this.btnCikis.ForeColor = System.Drawing.Color.White;
-            this.btnCikis.Location = new System.Drawing.Point(446, 2);
-            this.btnCikis.Name = "btnCikis";
-            this.btnCikis.Size = new System.Drawing.Size(34, 23);
-            this.btnCikis.TabIndex = 0;
-            this.btnCikis.Text = "X";
-            this.btnCikis.UseVisualStyleBackColor = false;
-            this.btnCikis.Click += new System.EventHandler(this.btnCikis_Click);
             // 
             // FrmLogin
             // 

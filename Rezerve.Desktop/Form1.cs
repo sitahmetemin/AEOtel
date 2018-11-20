@@ -39,7 +39,7 @@ namespace Rezerve.Desktop
 
         private void btnCikis_Click(object sender, EventArgs e)
         {
-            Close();
+            Application.Exit();
         }
     }
 }

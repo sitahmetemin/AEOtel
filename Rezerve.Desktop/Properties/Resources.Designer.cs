@@ -93,6 +93,16 @@ namespace Rezerve.Desktop.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap client_2 {
+            get {
+                object obj = ResourceManager.GetObject("client-2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap crearlogogratis_1024x1024_01 {
             get {
                 object obj = ResourceManager.GetObject("crearlogogratis_1024x1024_01", resourceCulture);
@@ -116,6 +126,16 @@ namespace Rezerve.Desktop.Properties {
         internal static System.Drawing.Bitmap free_vector_bed_100687_Bed {
             get {
                 object obj = ResourceManager.GetObject("free-vector-bed_100687_Bed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo {
+            get {
+                object obj = ResourceManager.GetObject("logo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -19,7 +19,16 @@ namespace Rezerve.Desktop
 
         private void lblCikis_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
+        }
+
+        private void picBoxMusteriEkle_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+            MusteriEkle musteri = new MusteriEkle();
+            musteri.Show();
+
+
         }
     }
 }
